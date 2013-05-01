@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.ibissource</groupId>
-  <artifactId>ibis-websphere-mq</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <artifactId>ibis-webspheremq</artifactId>
+  <version>1.0</version>
   <name>WebSphere MQ dependencies for Ibis AdapterFramework</name>
   <description>
     Emulate com.ibm.mqjms.jar as far as the Ibis AdapterFramework is depending
